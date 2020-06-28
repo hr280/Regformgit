@@ -1,0 +1,340 @@
+div.Form_body{
+    background-color: rgb(91, 60, 136);
+    /* background-color: wheat; */
+    width: 1000px;
+    height: 1000px;
+    position: relative;
+    left: 200px;
+    
+
+}
+div.First_name{
+    /* background-color: #563D7C; */
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+div.last_name{
+    /* background-color: #563D7C; */
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+div.dob{
+    /* background-color: #563D7C; */
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+div.email{
+    /* background-color: #563D7C; */
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+div.mobileno{
+    /* background-color: #563D7C; */
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+div.gender{
+    /* background-color: #563D7C; */
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+div.address{
+    /* background-color: #563D7C; */
+    color: white;
+    position: relative;
+    top: 30px;
+    left: 10px;
+}
+div.city{
+    /* background-color: #563D7C; */
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+div.pincode{
+    /* background-color: #563D7C; */
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+div.state{
+    /* background-color: #563D7C; */
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+div.country{
+    /* background-color: #563D7C; */
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+div.hobbies{
+    /* background-color: #563D7C; */
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+div.qualification{
+    /* background-color: #563D7C; */
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+div.courses{
+    /* background-color: #563D7C; */
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+/* span stying */
+span.dob_select{
+    position: relative;
+    left: 30px;
+}
+span.male_radio{
+    position: relative;
+    left: 80px;
+}
+span.textarea{
+    position: relative;
+    left: 155px;
+}
+span.drawing{
+    position: relative;
+    left: 65px;
+}
+span.singing{
+    position: relative;
+    left: 70px;
+}
+span.dancing{
+    position: relative;
+    left: 75px;
+}
+span.sketching{
+    position: relative;
+    left: 80px;
+}
+span.others{
+    position: relative;
+    left: 137px;
+}
+span.table_heading{
+    position: relative;
+    left: 15px;
+}
+span.coursesradio{
+    position: relative;
+    left: 20px;
+}
+
+/* input element properties */
+input.spaceforfirstname{
+    position: relative;
+    left: 50px;
+    
+}
+input.spaceforlastname{
+    position: relative;
+    left: 54px;
+}
+input.spaceforemail{
+    position: relative;
+    left: 74px;
+    
+}
+input.spaceformobileno{
+    position: relative;
+    left: 10px;
+    
+}
+input.spaceforcity{
+    position: relative;
+    left: 105px;
+    
+}
+input.spaceforpin{
+    position: relative;
+    left: 70px;
+    
+}
+input.spaceforstate{
+    position: relative;
+    left: 95px;
+    
+}
+input.spaceforcountry{
+    position: relative;
+    left: 65px;
+    
+}
+input.spaceforclassx1stfield{
+    position: relative;
+    left: 190px;
+}
+input.spaceforclassx2ndfield{
+    position: relative;
+    left: 190px;
+}
+input.spaceforclassx3rdfield{
+    position: relative;
+    left: 190px;
+}
+input.spaceforclassxii1stfield{
+    position: relative;
+    top: 5px;
+    left: 179px;
+}
+input.spaceforclassxii2ndfield{
+    position: relative;
+    top: 5px;
+    left: 180px;
+}
+input.spaceforclassxii3rdfield{
+    position: relative;
+    top: 5px;
+    left: 180px;
+}
+input.spaceforgrad1stfield{
+    position: relative;
+    top: 10px;
+    left: 169px;
+}
+input.spaceforgrad2ndfield{
+    position: relative;
+    top: 10px;
+    left: 170px;
+}
+input.spaceforgrad3rdfield{
+    position: relative;
+    top: 10px;
+    left: 170px;
+}
+input.spaceformas1stfield{
+    position: relative;
+    top: 15px;
+    left: 190px;
+}
+input.spaceformas2ndfield{
+    position: relative;
+    top: 15px;
+    left: 190px;
+}
+input.spaceformas3rdfield{
+    position: relative;
+    top: 15px;
+    left: 190px;
+}
+
+
+/* extra text styling */
+font.extra_text{
+    position: relative;
+    left: 50px;
+}
+font.extra_text2{
+    position: relative;
+    left: 54px;
+}
+font.extra_text3{
+    position: relative;
+    left: 10px;
+}
+font.extra_text4{
+    position: relative;
+    left: 105px;
+}
+font.extra_text5{
+    position: relative;
+    left: 65px;
+}
+font.extra_text6{
+    position: relative;
+    left: 90px;
+}
+font.board{
+    position: relative;
+    left: 50px;
+}
+font.percentage{
+    position: relative;
+    left: 100px;
+}
+font.yop{
+    position: relative;
+    left: 150px;
+}
+font.one{
+    position: relative;
+    left: 125px;
+}
+font.two{
+    position: relative;
+    top: 5px;
+    left: 125px;
+}
+font.three{
+    position: relative;
+    top: 10px;
+    left: 125px;
+}
+font.four{
+    position: relative;
+    top: 15px;
+    left: 125px;
+}
+font.classx{
+    position: relative;
+    left: 165px;
+}
+font.classxii{
+    position: relative;
+    top: 5px;
+    left: 165px;
+}
+font.graduation{
+    position: relative;
+    top: 10px;
+    left: 165px;
+}
+font.masters{
+    position: relative;
+    top: 15px;
+    left: 165px;
+}
+font.extratext7{
+    position: relative;
+    top: 15px;
+    left: 260px;
+}
+font.extratext8{
+    position: relative;
+    top: 15px;
+    left: 320px;
+}
+
+
+
+
